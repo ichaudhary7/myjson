@@ -4,7 +4,7 @@
     "_parents": [
         {
             "name": "RA",
-            "id": "4352b80a-4d80-558b-a506-203acfb87c03",
+            "id": "4352b80a-4d80-558b-a506-203acfb87c03"
             "_parents": [
               {
                 "name": "RAA",
@@ -20,7 +20,7 @@
     "_children": [
         {
             "name": "LA",
-            "id": "4352b80a-4d80-558b-a506-203acfb87c03",
+            "id": "4352b80a-4d80-558b-a506-203acfb87c03"
             "_children": [
               {
                 "name": "LAA",
