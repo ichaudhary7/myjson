@@ -1,39 +1,39 @@
 {
-    "name": "A",
+    "name": "Asset",
     "id": "acd21329-2b99-5bdb-a080-ff15ad2fcaa6",
     "_parents": [
         {
-            "name": "RA",
+            "name": "Threat 1",
             "id": "4352b80a-4d80-558b-a506-203acfb87cra",
             "_parents": [
                 {
-                    "name": "RAA",
+                    "name": "Control 1-1",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2fraa"
                 },
                 {
-                    "name": "RAB",
+                    "name": "Control 1-2",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2frab"
                 },
                 {
-                    "name": "RAC",
+                    "name": "Control 1-3",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2frac"
                 }
             ]
         },
         {
-            "name": "RB",
+            "name": "Threat 2",
             "id": "4352b80a-4d80-558b-a506-203acfb87crb",
             "_parents": [
                 {
-                    "name": "RBA",
+                    "name": "Control 2-1",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2frba"
                 },
                 {
-                    "name": "RBB",
+                    "name": "Control 2-2",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2frbb"
                 },
                 {
-                    "name": "RBC",
+                    "name": "Control 2-3",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2frbc"
                 }
             ]
@@ -41,37 +41,37 @@
     ],
     "_children": [
         {
-            "name": "LA",
+            "name": "Threat 3",
             "id": "4352b80a-4d80-558b-a506-203acfb87cla",
             "_children": [
                 {
-                    "name": "LAA",
+                    "name": "Control 3-1",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2flaa"
                 },
                 {
-                    "name": "LAB",
+                    "name": "Control 3-2",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2flab"
                 },
                 {
-                    "name": "LAC",
+                    "name": "Control 3-3",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2flac"
                 }
             ]
         },
         {
-            "name": "LB",
+            "name": "Threat 4",
             "id": "4352b80a-4d80-558b-a506-203acfb87clb",
             "_children": [
                 {
-                    "name": "LBA",
+                    "name": "LControl 4-1",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2flba"
                 },
                 {
-                    "name": "LBB",
+                    "name": "Control 4-2",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2flbb"
                 },
                 {
-                    "name": "LBC",
+                    "name": "Control 4-3",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2flbc"
                 }
             ]
