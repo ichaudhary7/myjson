@@ -41,11 +41,11 @@
         {
             "name": "Polly Kelley",
             "id": "4352b80a-4d80-558b-a506-203acfb87c03",
-            "_parents": [
+            "_children": [
               {
                 "name": "Chad Dennis",
                 "id": "5268a88e-3340-5768-81a0-8b50a8e2f387",
-                "_parents": [
+                "_children": [
                   {
                     "name": "Stephen Moore",
                     "id": "3f35f34b-d00e-5563-b109-8cd053a0317a"
@@ -59,7 +59,7 @@
               {
                 "name": "Frank Freeman",
                 "id": "8b6285c3-f00b-5ca2-885d-b13e4c308ba3",
-                "_parents": [
+                "_children": [
                   {
                     "name": "Dollie Ross",
                     "id": "8f85f955-13c3-5cd4-8147-a1bc83e961eb"
