@@ -1,35 +1,35 @@
 {
-    "name": "Isaac Warren",
+    "name": "A",
     "id": "acd21329-2b99-5bdb-a080-ff15ad2fcaa6",
     "_parents": [
         {
-            "name": "Polly Kelley",
+            "name": "RA",
             "id": "4352b80a-4d80-558b-a506-203acfb87c03",
             "_parents": [
               {
-                "name": "Chad Dennis",
+                "name": "RAA",
                 "id": "5268a88e-3340-5768-81a0-8b50a8e2f387",
                 "_parents": [
                   {
-                    "name": "Stephen Moore",
+                    "name": "RAAA",
                     "id": "3f35f34b-d00e-5563-b109-8cd053a0317a"
                   },
                   {
-                    "name": "Lela French",
+                    "name": "RAAB",
                     "id": "96629bb9-2804-5a0c-8bc8-cb032435958a"
                   }
                 ]
               },
               {
-                "name": "Frank Freeman",
+                "name": "RAB",
                 "id": "8b6285c3-f00b-5ca2-885d-b13e4c308ba3",
                 "_parents": [
                   {
-                    "name": "Dollie Ross",
+                    "name": "RABA",
                     "id": "8f85f955-13c3-5cd4-8147-a1bc83e961eb"
                   },
                   {
-                    "name": "Zachary Henry",
+                    "name": "RABB",
                     "id": "f3740416-68cd-5c03-9bd3-50a9e79ce739"
                   }
                 ]
@@ -39,33 +39,33 @@
     ],
     "_children": [
         {
-            "name": "Polly Kelley",
+            "name": "LA",
             "id": "4352b80a-4d80-558b-a506-203acfb87c03",
             "_children": [
               {
-                "name": "Chad Dennis",
+                "name": "LAA",
                 "id": "5268a88e-3340-5768-81a0-8b50a8e2f387",
                 "_children": [
                   {
-                    "name": "Stephen Moore",
+                    "name": "LAAA",
                     "id": "3f35f34b-d00e-5563-b109-8cd053a0317a"
                   },
                   {
-                    "name": "Lela French",
+                    "name": "LAAB",
                     "id": "96629bb9-2804-5a0c-8bc8-cb032435958a"
                   }
                 ]
               },
               {
-                "name": "Frank Freeman",
+                "name": "LAB",
                 "id": "8b6285c3-f00b-5ca2-885d-b13e4c308ba3",
                 "_children": [
                   {
-                    "name": "Dollie Ross",
+                    "name": "LABA",
                     "id": "8f85f955-13c3-5cd4-8147-a1bc83e961eb"
                   },
                   {
-                    "name": "Zachary Henry",
+                    "name": "LABB",
                     "id": "f3740416-68cd-5c03-9bd3-50a9e79ce739"
                   }
                 ]
