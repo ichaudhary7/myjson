@@ -43,7 +43,7 @@
         {
             "name": "LA",
             "id": "4352b80a-4d80-558b-a506-203acfb87cla",
-            "_parents": [
+            "_children": [
                 {
                     "name": "LAA",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2flaa"
@@ -61,7 +61,7 @@
         {
             "name": "LB",
             "id": "4352b80a-4d80-558b-a506-203acfb87clb",
-            "_parents": [
+            "_children": [
                 {
                     "name": "LBA",
                     "id": "5268a88e-3340-5768-81a0-8b50a8e2flba"
