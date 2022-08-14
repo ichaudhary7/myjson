@@ -1,80 +1,166 @@
 {
-    "name": "A",
+    "name": "Asset",
     "id": "acd21329-2b99-5bdb-a080-ff15ad2fcaa6",
+    "Type": "Type-1",
+    "Status": "Open",
     "_parents": [
         {
-            "name": "RA",
+            "name": "Threat 1",
             "id": "4352b80a-4d80-558b-a506-203acfb87cra",
+            "Type": "Type-1",
+            "Status": "Open",
             "_parents": [
                 {
-                    "name": "RAA",
-                    "id": "5268a88e-3340-5768-81a0-8b50a8e2fraa"
+                    "name": "Control 1-1",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2fraa",
+                    "Type": "Type-1",
+                    "Status": "Closed"
                 },
                 {
-                    "name": "RAB",
-                    "id": "5268a88e-3340-5768-81a0-8b50a8e2frab"
+                    "name": "Control 1-2",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2frab",
+                    "Type": "Type-1",
+                    "Status": "Completed"
                 },
                 {
-                    "name": "RAC",
-                    "id": "5268a88e-3340-5768-81a0-8b50a8e2frac"
+                    "name": "Control 1-3",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2frac",
+                    "Type": "Type-1",
+					"Status": "Cancelled"
                 }
             ]
-          },
+        },
         {
-            "name": "RB",
+            "name": "Threat 2",
             "id": "4352b80a-4d80-558b-a506-203acfb87crb",
+            "Type": "Type-1",
+			"Status": "Open",
             "_parents": [
                 {
-                    "name": "RBA",
-                    "id": "5268a88e-3340-5768-81a0-8b50a8e2frba"
+                    "name": "Control 2-1",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2frba",
+                    "Type": "Type-1",
+					"Status": "Open"
                 },
                 {
-                    "name": "RBB",
-                    "id": "5268a88e-3340-5768-81a0-8b50a8e2frbb"
+                    "name": "Control 2-2",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2frbb",
+                    "Type": "Type-1",
+					"Status": "Open"
                 },
                 {
-                    "name": "RBC",
-                    "id": "5268a88e-3340-5768-81a0-8b50a8e2frbc"
+                    "name": "Control 2-3",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2frbc",
+                    "Type": "Type-1",
+					"Status": "Open"
+                }
+            ]
+        },
+        {
+            "name": "Threat 3",
+            "id": "4352b80a-4d80-558b-a506-203acfb87crc",
+            "Type": "Type-1",
+			"Status": "Open",
+            "_parents": [
+                {
+                    "name": "Control 3-1",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2frca",
+                    "Type": "Type-1",
+					"Status": "Open"
+                },
+                {
+                    "name": "Control 3-2",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2frcb",
+                    "Type": "Type-1",
+					"Status": "Open"
+                },
+                {
+                    "name": "Control 3-3",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2frcc",
+                    "Type": "Type-1",
+					"Status": "Open"
                 }
             ]
         }
     ],
     "_children": [
         {
-            "name": "LA",
-            "id": "4352b80a-4d80-558b-a506-203acfb87c03",
+            "name": "Threat 4",
+            "id": "4352b80a-4d80-558b-a506-203acfb87cla",
+            "Type": "Type-1",
+			"Status": "Open",
             "_children": [
-                    {
-                        "name": "LAA",
-                        "id": "5268a88e-3340-5768-81a0-8b50a8e2f1387"
-                    },
-                    {
-                        "name": "LAB",
-                        "id": "8b6285c3-f00b-5ca2-885d-b13e4c3608ba3"
-                    },
-                    {
-                        "name": "LAC",
-                        "id": "8b6285c3-f00b-5ca2-885d-b13e4c3608ba3"
-                    }
+                {
+                    "name": "Control 4-1",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2flaa",
+                    "Type": "Type-1",
+					"Status": "Open"
+                },
+                {
+                    "name": "Control 4-2",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2flab",
+                    "Type": "Type-1",
+					"Status": "Open"
+                },
+                {
+                    "name": "Control 4-3",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2flac",
+                    "Type": "Type-1",
+					"Status": "Open"
+                }
             ]
-          },
-          {
-            "name": "LB",
-            "id": "4352b80a-4d80-558b-a506-203acfb87c03",
+        },
+        {
+            "name": "Threat 5",
+            "id": "4352b80a-4d80-558b-a506-203acfb87clb",
+            "Type": "Type-1",
+			"Status": "Open",
             "_children": [
-                    {
-                        "name": "LBA",
-                        "id": "5268a88e-3340-5768-81a0-8b50a8e24f387"
-                    },
-                    {
-                        "name": "LBB",
-                        "id": "8b6285c3-f00b-5ca2-885d-b13e4c2308ba3"
-                    },
-                    {
-                        "name": "LBC",
-                        "id": "8b6285c3-f00b-5ca2-885d-b13e4c2308ba3"
-                    }
+                {
+                    "name": "Control 5-1",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2flba",
+                    "Type": "Type-1",
+					"Status": "Open"
+                },
+                {
+                    "name": "Control 5-2",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2flbb",
+                    "Type": "Type-1",
+					"Status": "Open"
+                },
+                {
+                    "name": "Control 5-3",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2flbc",
+                    "Type": "Type-1",
+					"Status": "Open"
+                }
             ]
-          }
+        },
+        {
+            "name": "Threat 6",
+            "id": "4352b80a-4d80-558b-a506-203acfb87clc",
+            "Type": "Type-1",
+			"Status": "Open",
+            "_children": [
+                {
+                    "name": "Control 4-1",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2flca",
+                    "Type": "Type-1",
+					"Status": "Open"
+                },
+                {
+                    "name": "Control 4-2",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2flcb",
+                    "Type": "Type-1",
+					"Status": "Open"
+                },
+                {
+                    "name": "Control 4-3",
+                    "id": "5268a88e-3340-5768-81a0-8b50a8e2flcc",
+                    "Type": "Type-1",
+					"Status": "Open"
+                }
+            ]
+        }
     ]
 }
